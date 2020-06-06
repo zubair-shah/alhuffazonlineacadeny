@@ -1,0 +1,88 @@
+.navbar{
+    background-color: lightskyblue !important; 
+}
+.nav-link{
+    font-weight: bold;
+    }
+
+    .fa-user-circle-o{
+        font-size: 32px !important;
+    }
+    .quran,.online,.elearn{
+        width: 250px;
+        height: 200px;
+    }
+    .div1,.div2,.div3{
+
+        border: 2px solid royalblue;
+        
+
+    }
+    .maindiv{
+        background-color: lightskyblue !important ;
+    }
+    #main{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+    h4{ 
+        text-align: center;
+    }
+    .fee{
+        text-align: center;
+        color: gray;
+    }
+   
+      
+
+    .row{
+        
+        flex-direction: row;
+
+    }
+ 
+       
+    .maincard{justify-content: space-around;
+        display: flex;
+        flex-direction: row;
+        margin-top: 30px;
+        flex-wrap: wrap;
+    }
+    .card1,.card2,.card3{display: flex;
+        flex-direction: column;
+        background-color: ghostwhite;
+        box-shadow: 2px 4px 5px grey;
+        height: 500px;
+        width: 300px;
+        justify-content: center;
+        align-items: center;
+margin-top: 20px;
+    }
+    @media screen and(max-width: 600px){
+        .card1,.card2,.card3{
+            width: 100%;
+        }
+
+    }
+    .info{background-color: black;
+        border: 4px solid grey;
+        margin-top: 20px;
+    height: 700px; } 
+        .small{
+            color: white;
+            font-family: sans-serif;
+            font-size: 20px;
+            font-weight: normal;
+        }
+        .fa-facebook-official,.fa-youtube-play,.fa-instagram,.fa-twitter{
+            color: floralwhite;
+        justify-content: space-between;
+            font-size: 60px !important;
+            margin-left: 20px;
+        }
+        .text-color-white{
+            color: white;
+            font-size: 100px;
+            font-weight: bold; }
+ 

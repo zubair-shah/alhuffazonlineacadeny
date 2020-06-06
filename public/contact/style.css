@@ -1,0 +1,27 @@
+.logo{
+    width: 80px !important;
+    height: 50px;
+}
+.info{background-color: black;
+    border: 4px solid grey;
+    margin-top: 20px;
+height: 700px; } 
+    .small{
+        color: white;
+        font-family: sans-serif;
+        font-size: 20px;
+        font-weight: normal;
+    }
+    .fa-facebook-official,.fa-youtube-play,.fa-instagram,.fa-twitter{
+        color: floralwhite;
+    justify-content: space-between;
+        font-size: 60px !important;
+        margin-left: 20px;
+    }
+    .text-color-white{
+        color: white;
+        font-size: 100px;
+        font-weight: bold; }
+        .navbar{
+            background-color: lightskyblue !important; 
+        }
